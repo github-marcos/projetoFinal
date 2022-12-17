@@ -1,0 +1,13 @@
+.article-header{
+    background-color: rgb(17, 0, 255);
+    color: rgb(255, 255, 255);
+    border: 3px;
+    text-align: center;
+}
+
+.section-content{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+
+}
