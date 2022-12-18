@@ -1,7 +1,20 @@
-import { useState } from "react";
-import AddEmployee from "./AddEmployee";
-import { IEmployee, dummyEmployeeList, PageEnum } from "./Employee.type";
-import EmployeeList from "./EmployeeList"; 
+import React from "react";
+
+const Home = () =>{
+    return <h1>Home</h1>
+};
+
+export default Home;
+
+
+
+
+
+
+/*import { useState } from "react";
+import AddEmployee from "../../empoyee/AddEmployee";
+import { IEmployee, dummyEmployeeList, PageEnum } from "../../Employee.type";
+import EmployeeList from "../../List/EmployeeList"; 
 import "./Home.style.css";
 
 const Home = () => {
@@ -42,3 +55,4 @@ const Home = () => {
 }
  
 export default Home;
+*/
